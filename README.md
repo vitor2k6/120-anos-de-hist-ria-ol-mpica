@@ -49,4 +49,10 @@ As visualizações também podem ser utilizadas em painéis no **Looker Studio**
 - Modalidades esportivas influenciam o perfil físico dos atletas.
 - Modalidades mais técnicas como hipismo e tiro envolvem atletas mais velhos.
 
+## 📚 Referências
 
+- Kaggle Dataset: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+---
+
+> Projeto desenvolvido para fins educacionais e de prática em análise de dados com Python.
